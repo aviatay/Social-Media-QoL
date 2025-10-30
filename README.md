@@ -5,8 +5,7 @@
 This project investigates the **causal relationship** between exposure to social media and **quality of life (QoL)** across two key demographic groups — **adolescents and adults**.
 
 The main question:
-
-> Does intensive use of social media cause changes in lifestyle, mental health, and well-being — or merely correlate with them?
+Does intensive use of social media cause changes in lifestyle, mental health, and well-being — or merely correlate with them?
 
 ---
 
@@ -102,27 +101,6 @@ The main question:
 5. Datta et al. (2013). *Relationship of Activity of Daily Living with Quality of Life.*
 6. Clear (2014). *How long does it actually take to form a new habit?*
 7. Reed et al. (2023). *Reduction in Social Media Usage and Improvements in Well-being.*
-
----
-
-## 🧩 Repository Structure
-
-```
-├── data/
-│   ├── social_media_survey.csv
-│   └── processed_data.csv
-├── analysis/
-│   ├── matching_analysis.ipynb
-│   ├── regression_analysis.ipynb
-│   └── results_bootstrap.ipynb
-├── figures/
-│   ├── age_distribution.png
-│   ├── exposure_distribution.png
-│   └── ATE_by_age.png
-├── report/
-│   └── Causal Inference Project.docx
-└── README.md
-```
 
 ---
 
