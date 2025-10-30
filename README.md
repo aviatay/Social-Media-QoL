@@ -5,6 +5,7 @@
 This project investigates the **causal relationship** between exposure to social media and **quality of life (QoL)** across two key demographic groups — **adolescents and adults**.
 
 The main question:
+
 Does intensive use of social media cause changes in lifestyle, mental health, and well-being — or merely correlate with them?
 
 ---
